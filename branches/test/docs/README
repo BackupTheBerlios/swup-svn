@@ -19,7 +19,6 @@ CONFIGURATION
 Configuration file are generally located in /etc/swup/swup.conf
 Se manpages swup(5) or read the sample configuration file comments.
 
-dfsa
 
 
 INSTALLATION
